@@ -16,3 +16,5 @@ The columns of this big data set are named.
 We then search for columns containing "mean()" and "std()" and subset just these.
 Next we use the aggregate function to average each variable for each subject and activity.
 Finally, the averaged data is written to a text file.
+
+For information on what the data means, see the CodeBook file in this repository.
